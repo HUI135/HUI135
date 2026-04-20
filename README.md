@@ -1,4 +1,4 @@
-Researcher | Data Scientist | Causal Inference & Medical Data Analysis
+Biostatistics master’s student at Seoul National University | Causal inference in health research
 
 I focus on applying causal inference and statistical modeling to healthcare data,
 aiming to uncover actionable insights and improve clinical decision-making.
